@@ -1,2 +1,2 @@
-# lab-agile-planning
+# devops-lab-agile-planning
 lab planning for Agile
