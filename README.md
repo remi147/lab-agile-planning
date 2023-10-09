@@ -1,3 +1,3 @@
 
-# devopsstudent-lab-agile-planning
+# devops_student-lab-agile-planning
 lab planning for Agile
