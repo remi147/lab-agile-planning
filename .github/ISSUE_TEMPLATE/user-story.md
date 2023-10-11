@@ -1,23 +1,23 @@
 ---
 name: User story
 about: This template is for creating user stories
-title: ''
+title: 'Business storesystem  '
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** User 
+ **I need** a business inventory storesystem  
+ **So that** system will work as a library  
    
  ### Details and Assumptions
- * [document what you know]
+ * I need a business that will work as storesystem and will enumerate all library stock out and in.
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given storesystem stock
+ When is out of stock 
+ Then will show up as unavailabe.
  ```
