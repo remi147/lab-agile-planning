@@ -2,8 +2,8 @@
 name: User story
 about: This template is for creating user stories
 title: 'Business storesystem  '
-labels: ''
-assignees: ''
+labels: 'technical debt'
+assignees: 'remi147'
 
 ---
 
