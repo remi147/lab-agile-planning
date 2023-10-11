@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+name: Storesystem Businees 
+about: technical debts and issues
+title: 'User story for a business'
+labels: 'technical debt'
+assignees: 'remi147'
 
 ---
 
