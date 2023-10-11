@@ -1,6 +1,6 @@
 ---
 name: User story
-about: This template is for creating user stories
+about: business story
 title: 'Business storesystem  '
 labels: 'technical debt'
 assignees: 'remi147'
