@@ -2,8 +2,8 @@
 name: User story
 about: business story
 title: 'Business storesystem  '
-labels: 'technical debt'
-assignees: 'remi147'
+labels: ''
+assignees: remi147
 
 ---
 
