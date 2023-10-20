@@ -1,7 +1,7 @@
 ---
-name: User Story
-about: business story
-title: 'Business storesystem  '
+name: User story
+about: This template is for creating user stories
+title: ''
 labels: ''
 assignees: remi147
 
